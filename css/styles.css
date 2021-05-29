@@ -1,0 +1,38 @@
+body {
+    font-family: "Monaco";
+}
+
+h1, h2, h3 {
+    font-family: "Monaco";
+    font-size: 30px;
+}
+
+h2 {
+    color: black;
+}
+
+header h2 {
+    color:red;
+}
+
+p {
+    font-size: 17px;
+}
+
+footer {
+    background-image: linear-gradient(#f7979c, white);
+    padding: 40px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to left,rgb(165, 157, 157), white);
+    color: black;
+}
+
+.row-content {
+    padding: 40px 0;
+    border-bottom: .5px ridge;
+    min-height: 200px;
+}
+
